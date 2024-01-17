@@ -14,10 +14,10 @@ This is a simple Spring Boot project for educational purposes.
 
 ## Technology Stack
 
-- **Spring Boot:** 3.2.1
-- **JDK:** 17
-- **Database:** MySQL
-- **Build Tool:** Maven
+- **Spring Boot:** `3.2.1`
+- **JDK:** `17`
+- **Database:** `MySQL`
+- **Build Tool:** `Maven`
 
 ## Components
 
